@@ -8,8 +8,8 @@ const Header = () => (
     <div className="app__wrapper_info">
       <SubHeading title="Chase the new Trends"/>
       <h1 className="app__header-h1">Stay Home and Shop Online</h1>
-      <p className="p__opensans" style={{margin: '2rem 0'}}> Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus,  </p>
-      <button type="button" className="custom__button">Explore Menu</button>
+      <p className="p__opensans" style={{margin: '2rem 0'}}>Every Purchase will be Made With Pleasure</p>
+      <button type="button" className="custom__button"><a href="#menu">Explore Menu</a></button>
     </div>
 
     {/* <div className="app__wrapper_img">
