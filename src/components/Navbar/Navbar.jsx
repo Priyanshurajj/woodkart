@@ -17,10 +17,10 @@ const Navbar = () => {
       <img src={images.woodkart} alt="app logo" />
     </div>
     <ul className="app__navbar-links">
-      <li className="p__opensans"><a href="#home">Home</a> </li>
-      <li className="p__opensans"><a href="#about">About</a> </li>
-      <li className="p__opensans"><a href="#menu">Menu</a> </li>
-      <li className="p__opensans"><a href="#contact">Contact</a> </li>
+      <li className="p__opensans"><a href="#home">Home</a></li>
+      <li className="p__opensans"><a href="#about">About</a></li>
+      <li className="p__opensans"><a href="#menu">Menu</a></li>
+      <li className="p__opensans"><a href="#contact">Contact</a></li>
     </ul>
     <div className="app__navbar-login">
       <a href="#login" className="p__opensans">Log In/Register</a>
@@ -38,7 +38,7 @@ const Navbar = () => {
       <li className="p__opensans"><a href="#home">Home</a></li>
       <li className="p__opensans"><a href="#about">About</a></li>
       <li className="p__opensans"><a href="#menu">Menu</a></li>
-      <li className="p__opensans"><a href="#contact">contact</a></li>
+      <li className="p__opensans"><a href="#contact">Contact</a></li>
          </ul>
        </div>
        )}
