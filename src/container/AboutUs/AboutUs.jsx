@@ -10,7 +10,7 @@ const AboutUs = () => (
       <div className="app__aboutus-content_about">
         <h1 className="headtext__cormorant">About Us</h1>
         <img src={images.spoon} alt="about-sponn" className="spoon__img"/>
-          <p className="p__opensans">What started small,with a single small discount store and a simple idea of sell more for less has grown over the last 50 years as one of the biggest E-commerce plateform of world.Each week nearly 12 million customers and members visit approximately 11,500 stores under 56 banners in 27 countries.</p>
+          <p className="p__opensans">What started small, with a single small discount store and simple idea of sell more for less has grown over the last 50 years as one of the biggest E-commerce plateform of world.Each week nearly 12 million customers and members visit approximately 11,500 stores under 56 banners in 27 countries.</p>
         <button type="button" className="custom__button">View More</button>
       </div>
 
